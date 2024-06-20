@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# apidoc output
+apidoc/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore build files
+dist/
+build/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.sublime-workspace
